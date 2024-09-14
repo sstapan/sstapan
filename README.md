@@ -14,5 +14,3 @@ I'm currently spearheading the deployment of Red Hat OpenStack Platform in a pro
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sstapan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
